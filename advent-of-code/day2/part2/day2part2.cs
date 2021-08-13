@@ -50,7 +50,6 @@ namespace day2part2
 
         }
     }
-
     class Other
     {
         public static bool isValid(string password, char theLetter, int pos1, int pos2)
