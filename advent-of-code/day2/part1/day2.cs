@@ -8,10 +8,10 @@ namespace Day2
     class Hello {   
         static void Main()
         {
-            string text = @"input.txt";                                       //put contents of the file in a string 
+            string text = @"input.txt";                           //put contents of the file in a string 
             var lines = new List<string>();                          
 
-            lines = File.ReadLines(text).ToList();                            //put text into a list
+            lines = File.ReadLines(text).ToList();               //put text into a list
 
             int count = 0;
 
@@ -34,7 +34,7 @@ namespace Day2
                 
                 char theLetter = char.Parse(letter);
                 //now get number of characters in a string
-                int numberOfSpecifiedLetter = Other.countLetters(password, theLetter);
+                int numberOfSpecifiedLetter = countLetters(password, theLetter);
                 //Console.WriteLine(numberOfSpecifiedLetter);
 
                 if ((numberOfSpecifiedLetter >= min) && (numberOfSpecifiedLetter <= max))
@@ -45,10 +45,6 @@ namespace Day2
             Console.WriteLine(count);
 
         }
-    }
-
-    class Other
-    {
         public static int countLetters(string password, char theLetter) 
         {
             int count = 0;
