@@ -1,0 +1,13 @@
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\bin\Debug\netcoreapp3.1\day5part2.exe
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\bin\Debug\netcoreapp3.1\day5part2.deps.json
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\bin\Debug\netcoreapp3.1\day5part2.runtimeconfig.json
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\bin\Debug\netcoreapp3.1\day5part2.runtimeconfig.dev.json
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\bin\Debug\netcoreapp3.1\day5part2.dll
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\bin\Debug\netcoreapp3.1\day5part2.pdb
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\obj\Debug\netcoreapp3.1\day5part2.csprojAssemblyReference.cache
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\obj\Debug\netcoreapp3.1\day5part2.AssemblyInfoInputs.cache
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\obj\Debug\netcoreapp3.1\day5part2.AssemblyInfo.cs
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\obj\Debug\netcoreapp3.1\day5part2.csproj.CoreCompileInputs.cache
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\obj\Debug\netcoreapp3.1\day5part2.dll
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\obj\Debug\netcoreapp3.1\day5part2.pdb
+C:\Users\klaag\Desktop\endjin\endjin-intern-tasks\advent-of-code\day5\part1\obj\Debug\netcoreapp3.1\day5part2.genruntimeconfig.cache
