@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JVe0CJ46J8JX1tk14Br+9LWPwcdd3haPMlrzR1NXGeMuCITtARHhHNh2rXOxrSQUVymZTtjvSm2hdkV64i84Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\endjin\\endjin-intern-tasks\\advent-of-code\\day6\\part2\\day6part2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\endjin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\endjin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\endjin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\endjin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
