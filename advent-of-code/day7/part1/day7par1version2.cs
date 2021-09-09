@@ -18,20 +18,14 @@ namespace day7part1
                 //vibrant lavender bags contain 1 shiny coral bag, 4 dotted purple bags.
                 string[] words = line.Split(' ');
                 string outer_bag = words[0] + " " + words[1]; //the first 2 words are the colour of the outer bag
-                string inner_bag_list = line.Split(" contain ")[1].Trim('.'); 
-                string[] inner_bags = inner_bag_list.Split(", ").Select(inner_bag_text =>
+                string inner_bag_list = line.Split(" contain ")[1].Trim('.');   //get the string after contain and trim the dot at the end
+                string[] inner_bags = inner_bag_list.Split(", ").Select(inner_bag_text =>   // split the list by comas
                 {
                     int colour_index = inner_bag_text.IndexOf(" ") + 1;
                     int bag_index = inner_bag_text.IndexOf(" bag");
-                    return inner_bag_text.Substring(colour_index, bag_index - colour_index);
+                    return inner_bag_text.Substring(colour_index, bag_index - colour_index); // get the string starting at colour index and for the length of second argument
                 }).ToArray();
-                bagContains.Add(outer_bag, inner_bags);
-                // if(lines[i].Contains("shiny gold") && outer_bag[i] != "shiny gold") //if the line contains "shiny gold" and the outer bag is not shiny gold 
-                // {
-                //     outer_bag_valid[count] = outer_bag[i];  //make the outer bag valid 
-                //     count++; 
-
-                // }
+                bagContains.Add(outer_bag, inner_bags); //add outer and inner bags to dictionary
             }
             Dictionary<string, string[]> bagContainedBy = 
                 (from kv in bagContains                       //get all entries 
@@ -42,9 +36,9 @@ namespace day7part1
 
             void VisitContainingBags(string bag_colour, Action<string> bag)
             {
-                if (!bagContainedBy.TryGetValue(bag_colour, out string[] containing_colours))
+                if (!bagContainedBy.TryGetValue(bag_colour, out string[] containing_colours)) 
                 {
-                    return;
+                    return;    //exit if false
                 }
                 foreach (string containing_colour in containing_colours)
                 {
@@ -53,7 +47,7 @@ namespace day7part1
                 }
             }
             HashSet<string> distinct_colours = new HashSet<string>();  //gets rid of repetition 
-            VisitContainingBags("shiny gold", colour => distinct_colours.Add(colour));
+            VisitContainingBags("shiny gold", colour => distinct_colours.Add(colour)); //check for shiny gold and then every other outer colour related to it
             System.Console.WriteLine(distinct_colours.Count);
         }
     }
