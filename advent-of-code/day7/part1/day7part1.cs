@@ -5,7 +5,7 @@ using System.Linq;
 namespace day7part1
 {
     class Program {         
-        static void Main()
+        static void Main2()
         {   
             string text = @"input.txt";                       //open the file
             string[] lines = File.ReadAllLines(text);         //store contents in an array of strings

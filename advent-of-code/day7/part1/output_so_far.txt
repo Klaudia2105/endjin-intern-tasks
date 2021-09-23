@@ -24,468 +24,468 @@ vibrant maroon
 light salmon
 drab tan
 dark turquoise
-wavy olive
-faded bronze
-pale turquoise
-wavy white
-muted turquoise
-plaid brown
-bright chartreuse
-dim olive
-wavy cyan
-wavy chartreuse
-drab chartreuse
-dark crimson
-striped blue
-dull green
-dark gray
-plaid black
-dark teal
-dull magenta
-drab blue
-wavy blue
-dotted red
-plaid salmon
-muted lime
-shiny olive
-muted black
-dim lavender
-dark fuchsia
-posh lime
-pale violet
-posh fuchsia
-posh gold
-clear lavender
-clear gray
-shiny blue
-bright green
-dim violet
-faded magenta
-striped brown
-drab gray
-clear aqua
-dark green
-dim magenta
-shiny maroon
-vibrant black
-mirrored violet
-striped fuchsia
-plaid plum
-plaid red
-dull teal
-plaid bronze
-dotted turquoise
-faded black
-dark plum
-faded chartreuse
-clear cyan
-wavy red
-shiny brown
-shiny violet
-posh aqua
-dark maroon
-faded beige
-striped tomato
-vibrant coral
-striped blue
-wavy silver
-clear orange
-dull gold
-striped bronze
-dim blue
-plaid teal
-drab fuchsia
-dim crimson
-dark tomato
-mirrored plum
-plaid black
-bright lime
-dull violet
-mirrored cyan
-muted blue
-clear turquoise
-bright orange
-dim tomato
-plaid tomato
-light crimson
-clear teal
-faded lime
-bright beige
-muted maroon
-shiny black
-wavy tan
-dull salmon
-dotted orange
-dark cyan
-pale violet
-pale violet
-pale aqua
-drab silver
-posh blue
-posh gold
-plaid blue
-shiny tan
-dull aqua
-shiny blue
-dull lime
-faded magenta
-wavy olive
-vibrant yellow
-dull orange
-dull orange
-wavy lime
-posh bronze
-shiny purple
-shiny fuchsia
-faded orange
-mirrored orange
-wavy gold
-wavy gold
-wavy violet
-mirrored white
-light fuchsia
-dark tan
-pale plum
-vibrant brown
-mirrored violet
-light plum
-dim olive
-drab turquoise
-muted coral
-pale salmon
-plaid bronze
-dim silver
-faded chartreuse
-wavy chartreuse
-muted bronze
-mirrored beige
-drab chartreuse
-vibrant plum
-vibrant plum
-wavy red
-shiny brown
-dull black
-plaid lavender
-mirrored gold
-light gray
-dull tan
-posh aqua
-vibrant coral
-light brown
-light red
-faded gold
-plaid coral
-vibrant magenta
-dotted fuchsia
-mirrored teal
-faded red
-clear blue
-clear blue
-dull brown
-drab fuchsia
-drab plum
-faded purple
-faded purple
-clear olive
-dotted bronze
-light blue
-dark tomato
-plaid black
-faded green
-dim tomato
-striped orange
-light crimson
-clear teal
-dotted green
-dotted green
-drab maroon
-drab maroon
-dull magenta
-drab white
-dim turquoise
-striped lime
-striped gray
-wavy salmon
-vibrant teal
-shiny black
-shiny yellow
-dull salmon
-dotted orange
-wavy tomato
-faded fuchsia
-posh orange
-shiny white
-drab purple
-bright indigo
-drab tan
-drab silver
-posh gold
-bright black
-dull aqua
-dim orange
-bright blue
-drab cyan
-shiny blue
-pale maroon
-dotted beige
-dotted beige
-dim bronze
-dull red
-dotted tomato
-mirrored turquoise
-striped indigo
-wavy black
-plaid crimson
-wavy aqua
-dull orange
-dull orange
-faded orange
-faded orange
-wavy white
-wavy white
-wavy gold
-mirrored white
-dark tan
-shiny silver
-pale purple
-pale purple
-vibrant black
-mirrored violet
-mirrored violet
-dotted black
-light plum
-plaid white
-plaid plum
-striped olive
-plaid violet
-posh magenta
-posh magenta
-pale salmon
-mirrored green
-plaid bronze
-bright aqua
-dim silver
-faded chartreuse
-muted bronze
-vibrant plum
-dotted white
-wavy red
-shiny brown
-shiny brown
-pale blue
-mirrored gold
-mirrored gold
-muted green
-muted green
-posh aqua
-striped tomato
-vibrant coral
-pale tomato
-dark black
-faded gold
-bright red
-bright red
-shiny magenta
-dull coral
-dull coral
-pale white
-pale white
-pale white
-clear crimson
-pale chartreuse
-pale chartreuse
-dotted fuchsia
-clear blue
-dark lime
-dim crimson
-drab plum
-muted chartreuse
-muted purple
-dark tomato
-mirrored plum
-dim yellow
-mirrored cyan
-muted blue
-faded green
-clear turquoise
-dim tomato
-bright tan
-clear tan
-light crimson
-shiny chartreuse
-clear teal
-clear teal
-clear teal
-drab maroon
-dim turquoise
-striped lime
-muted maroon
-striped gray
-striped teal
-pale lavender
-pale lavender
-wavy salmon
-vibrant teal
-shiny black
-shiny yellow
-posh teal
-clear chartreuse
-dull salmon
-dotted orange
-dotted orange
-dark violet
-faded maroon
-dotted gray
-mirrored brown
-dim purple
-dark cyan
-clear plum
-clear plum
-dull chartreuse
-pale aqua
-faded crimson
-posh gold
-wavy gray
-drab gold
-dim orange
-bright blue
-dotted beige
-light green
-wavy lime
-faded orange
-faded orange
-wavy white
-wavy gold
-wavy gold
-wavy violet
-dim coral
-dim coral
-dim coral
-shiny silver
-dotted maroon
-pale plum
-mirrored violet
-faded brown
-posh violet
-striped olive
-posh magenta
-plaid bronze
-dotted turquoise
-faded black
-bright aqua
-bright aqua
-dim silver
-muted bronze
-shiny brown
-light gray
-dark coral
-striped tomato
-wavy plum
-light red
-dark black
-shiny magenta
-pale white
-pale white
-pale chartreuse
-dotted fuchsia
-dotted fuchsia
-clear blue
-light teal
-posh crimson
-faded purple
-muted purple
-dark tomato
-mirrored plum
-dull indigo
-dim tomato
-bright tan
-clear tan
-clear teal
-dim turquoise
-light indigo
-striped gray
-pale lavender
-vibrant chartreuse
-wavy salmon
-wavy salmon
-wavy salmon
-vibrant teal
-muted lime
-dotted orange
-dark violet
-pale fuchsia
-faded maroon
-dotted gray
-posh orange
-clear plum
-clear plum
-faded olive
-dotted cyan
-dotted cyan
-faded crimson
-posh gold
-clear lavender
-bright black
-drab gold
-dim orange
-dotted beige
-dim gold
-dim coral
-dim coral
-plaid orange
-dotted maroon
-mirrored violet
-mirrored violet
-posh magenta
-posh magenta
-posh magenta
-posh magenta
-plaid bronze
-dotted turquoise
-dotted turquoise
-drab red
-bright aqua
-bright aqua
-dim silver
-shiny brown
-mirrored gold
-muted green
-striped tomato
-pale white
-dark tomato
-mirrored plum
-bright tan
-clear tan
-clear tan
-clear teal
-striped teal
-wavy salmon
-vibrant teal
-muted lime
-muted lime
-dotted orange
-dim maroon
-dim maroon
-clear plum
-dotted cyan
-drab indigo
-dim orange
-drab lime
-drab lime
-dim coral
-dotted turquoise
-dotted turquoise
-dim silver
-clear crimson
-clear tan
-clear tan
-wavy salmon
-dim maroon
-clear plum
-plaid crimson
-plaid crimson
-drab lime
-faded black
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
